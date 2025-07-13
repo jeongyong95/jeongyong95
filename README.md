@@ -1,4 +1,4 @@
-### 안녕하세요! 주정용입니다😆
+### 안녕하세요! 주정용입니다.
 ![jeongyong95's github stats](https://github-readme-stats.vercel.app/api?username=jeongyong95&show_icons=true)  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongyong95)](https://solved.ac/jeongyong95/)
